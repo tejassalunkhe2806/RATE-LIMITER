@@ -511,7 +511,7 @@ curl -i -X POST http://localhost:3000/api/test \\
                 RateLimiterX
               </span>
               <span className="hidden md:inline-block text-[10px] font-semibold uppercase tracking-wider text-emerald-400 ml-2 bg-emerald-950/20 border border-emerald-500/20 px-2 py-0.5 rounded-full animate-pulse">
-                v2.0 Live
+                v1.0
               </span>
             </div>
           </div>
