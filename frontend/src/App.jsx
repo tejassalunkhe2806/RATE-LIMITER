@@ -510,8 +510,8 @@ curl -i -X POST http://localhost:3000/api/test \\
               <span className="font-extrabold text-xl tracking-tight bg-gradient-to-r from-indigo-200 via-indigo-400 to-indigo-100 bg-clip-text text-transparent">
                 RateLimiterX
               </span>
-              <span className="hidden md:inline-block text-[10px] font-semibold uppercase tracking-wider text-slate-500 ml-2 bg-slate-900 border border-slate-800 px-2 py-0.5 rounded-full">
-                v2.0 Core
+              <span className="hidden md:inline-block text-[10px] font-semibold uppercase tracking-wider text-emerald-400 ml-2 bg-emerald-950/20 border border-emerald-500/20 px-2 py-0.5 rounded-full animate-pulse">
+                v2.0 Live
               </span>
             </div>
           </div>
